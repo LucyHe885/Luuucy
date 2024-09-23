@@ -1,0 +1,16 @@
+h2 {
+    /* always start with h2 and each commit have ; on the end */
+    color:darkblue;
+    /* property + value */
+}
+.bg-gray{
+    background-color: gray;
+}
+/* h2{} element
+   . col class */
+h1,h2{
+    text-transform: capitalize;
+}
+/* css rules on slice79 83*/
+/* id > class > element */
+/* id(#)  class(.)  element(h2) */
